@@ -12,7 +12,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=DEIMOS_Project)](https://github.com/ArtemissFR/DEIMOS_Project)
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=DEIMOS_Project">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=ODIN_Project">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=ODIN_Project">
 </p>
 
 
