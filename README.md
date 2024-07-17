@@ -7,6 +7,10 @@
 
 ### Working on: 🚀
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=ODIN_Project)](https://github.com/ArtemissFR/ODIN_Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=DEIMOS_Project)](https://github.com/ArtemissFR/DEIMOS_Project)
+
 ---
 ## Languages and Tools 
 
@@ -14,12 +18,6 @@
 ### My tools for Data Manipulation & Visualisation:
 ### Environments, Testing, Other:
 ### OS:
-
----
-## My main projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=ODIN_Project)](https://github.com/ArtemissFR/ODIN_Project)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=DEIMOS_Project)](https://github.com/ArtemissFR/DEIMOS_Project)
 
 ---
 ## My Stats :
