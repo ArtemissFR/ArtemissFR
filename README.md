@@ -16,6 +16,10 @@
 ### OS:
 
 ---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=Learning-Ansible)](https://github.com/ArtemissFR/Learning-Ansible)
+
+---
 ## My Stats :
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ArtemissFR&show_icons=true&theme=vision-friendly-dark">
