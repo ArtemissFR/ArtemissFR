@@ -17,7 +17,7 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=Learning-Ansible)](https://github.com/ArtemissFR/Learning-Ansible)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=ODIN_Project)](https://github.com/ArtemissFR/ODIN_Project)
 
 ---
 ## My Stats :
