@@ -1,16 +1,7 @@
 ---
 ## Hi there 👋
 
-### About Me:    
-
-### Social media: 📡  
-
-### Working on: 🚀
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=DEIMOS_Project">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=ArtemissFR&repo=ODIN_Project">
-</p>
-
+### About Me:   
 
 ---
 ## Languages and Tools 
